@@ -4,7 +4,12 @@
 Designer Resume CV as HTML
 
 Demo & View
-https://sawacrow.github.io/DesignerResumeCV/index.html
+Yellow: https://sawacrow.github.io/DesignerResumeCV/index.html
+Blue: https://sawacrow.github.io/DesignerResumeCV/index-blue.html
+Green: https://sawacrow.github.io/DesignerResumeCV/index-green.html
+Pink: https://sawacrow.github.io/DesignerResumeCV/index-pink.html
+Purple: https://sawacrow.github.io/DesignerResumeCV/index-purple.html
+Red: https://sawacrow.github.io/DesignerResumeCV/index-red.html
 
 
 -Bootstrap 5.0
