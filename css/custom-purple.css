@@ -1,0 +1,156 @@
+body *{
+    font-family: 'Work Sans', sans-serif;
+    color:#363636;
+}
+.ProfileContainer 
+{
+    background-color: #ba68c8;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  left:-50px;
+  top:-50px;
+  position: absolute;
+  z-index: 0;
+}
+.ProfileIMG {
+    width: 250px;
+    height: 250px;
+    background-image: url('../imgs/pexelstuan.jpg');
+    background-size: contain;
+    border-radius: 50%;
+    border:10px solid #ffffff;
+    margin-left:70px;
+    margin-top:70px;
+    position: relative;
+    z-index: 1;
+ 
+}
+.gray{
+    background-color:#f3f4f5;
+}
+.SmallCircle
+ {
+    background-color: #ba68c8;
+    opacity: 0.8;
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+    left:160px;
+    top:-20px;
+    position: absolute;
+    z-index: 0;
+ }
+ h2 {
+    color:#464646;
+    margin-bottom:30px;
+    font-weight: 500;
+
+ }
+ .LeftSideContainer
+ {
+     margin-left:100px;
+     
+ }
+ i {
+     color:#ba68c8;
+     padding-right:10px;
+ }
+ a {
+     text-decoration: none;
+     color:#464646;
+    }
+.LeftHeader,
+.RightHeader{
+    margin-top:30px;
+    margin-bottom:100px;
+   
+}
+.GoldenBadge {
+    background-color: #ba68c8;
+    padding:5px 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+    font-weight: 500;
+}
+.Education  .GoldenBadge {
+    margin-top:20px;
+    
+    
+}
+.skills{
+    font-weight: 500;
+    max-width: 360px;
+    min-width: 310px !important;
+     
+    line-height: 32px;
+}
+.GrayDot{
+    color:#e1e1e1;
+}
+h1 {
+    margin-top:130px;
+    font-weight: 600;
+    font-size:60px;
+}
+.RightSideContainer {
+    margin-left:100px;
+    width: fit-content;
+   
+}
+
+.surname {
+    color:#ba68c8;;
+}
+.about,
+.RightSideContainer {
+    margin-top:108px;
+    max-width: 600px;
+}
+.WorkExperience h5 {
+    margin-top:20px;
+}
+.Hobies .rowCont {
+   margin-top:30px;
+   display: flex;
+      flex-direction: row;
+   justify-content: space-between;
+   max-width: 400px;
+}
+.Hobies .rowCont div {
+    width: 50%;
+}
+.skills i {
+    padding:1px;
+}
+@media only screen and (max-width: 1217px) {
+  .LeftSideContainer,
+  .RightSideContainer  {
+      margin-left: 10px;
+  }
+
+  .skills {
+      padding-right:15px;
+  }
+  }
+
+  @media only screen and (max-width: 374px) {
+      .ProfileIMG {
+          margin-left:30px;
+      }
+      .LeftSideContainer,
+      .RightSideContainer  {
+          margin-left: 3px;
+      }
+
+  }
+  #pinIcon {
+    padding-left: 2px;
+    padding-right: 12px;
+     
+  }
+  .skills .float-end {
+    padding-right: 8px;
+    
+  }
