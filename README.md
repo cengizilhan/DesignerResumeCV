@@ -1,5 +1,11 @@
+![alt text](https://github.com/sawacrow/DesignerResumeCV/blob/main/Preview/01_preview1.jpg?raw=true)
+
 # DesignerResumeCV
 Designer Resume CV as HTML
+
+Demo & View
+https://sawacrow.github.io/DesignerResumeCV/index.html
+
 
 -Bootstrap 5.0
 -Responsive
